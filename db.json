@@ -1,0 +1,804 @@
+{
+  "items": [
+    {
+      "type": "inc",
+      "description": "Фриланс",
+      "value": "20000",
+      "month": 9,
+      "year": 2020,
+      "id": 1
+    },
+    {
+      "type": "inc",
+      "description": "Партнерка",
+      "value": "10000",
+      "month": 9,
+      "year": 2020,
+      "id": 2
+    },
+    {
+      "type": "inc",
+      "description": "Инвест. доход",
+      "value": "5000",
+      "month": 10,
+      "year": 2020,
+      "id": 3
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 10,
+      "year": 2020,
+      "id": 4
+    },
+    {
+      "type": "exp",
+      "description": "Спортзал",
+      "value": "2000",
+      "month": 10,
+      "year": 2020,
+      "id": 5
+    },
+    {
+      "type": "inc",
+      "description": "Партнерка",
+      "value": "10000",
+      "month": 11,
+      "year": 2020,
+      "id": 6
+    },
+    {
+      "type": "exp",
+      "description": "Развлечения",
+      "value": "2000",
+      "month": 11,
+      "year": 2020,
+      "id": 7
+    },
+    {
+      "type": "exp",
+      "description": "Развлечения",
+      "value": "2000",
+      "month": 11,
+      "year": 2020,
+      "id": 8
+    },
+    {
+      "type": "inc",
+      "description": "Инвест. доход",
+      "value": "5000",
+      "month": 0,
+      "year": 2021,
+      "id": 9
+    },
+    {
+      "type": "exp",
+      "description": "Покупки",
+      "value": "2000",
+      "month": 0,
+      "year": 2021,
+      "id": 10
+    },
+    {
+      "type": "exp",
+      "description": "Коммунальные счета",
+      "value": "1000",
+      "month": 0,
+      "year": 2021,
+      "id": 11
+    },
+    {
+      "type": "exp",
+      "description": "Бензин",
+      "value": "1000",
+      "month": 1,
+      "year": 2021,
+      "id": 12
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 1,
+      "year": 2021,
+      "id": 13
+    },
+    {
+      "type": "exp",
+      "description": "Спортзал",
+      "value": "2000",
+      "month": 1,
+      "year": 2021,
+      "id": 14
+    },
+    {
+      "type": "inc",
+      "description": "Партнерка",
+      "value": "10000",
+      "month": 2,
+      "year": 2021,
+      "id": 15
+    },
+    {
+      "type": "exp",
+      "description": "Коммунальные счета",
+      "value": "1000",
+      "month": 2,
+      "year": 2021,
+      "id": 16
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 2,
+      "year": 2021,
+      "id": 17
+    },
+    {
+      "type": "inc",
+      "description": "Инвест. доход",
+      "value": "5000",
+      "month": 3,
+      "year": 2021,
+      "id": 18
+    },
+    {
+      "type": "exp",
+      "description": "Развлечения",
+      "value": "2000",
+      "month": 3,
+      "year": 2021,
+      "id": 19
+    },
+    {
+      "type": "exp",
+      "description": "Развлечения",
+      "value": "2000",
+      "month": 3,
+      "year": 2021,
+      "id": 20
+    },
+    {
+      "type": "exp",
+      "description": "Спортзал",
+      "value": "2000",
+      "month": 4,
+      "year": 2021,
+      "id": 21
+    },
+    {
+      "type": "inc",
+      "description": "Фриланс",
+      "value": "20000",
+      "month": 4,
+      "year": 2021,
+      "id": 22
+    },
+    {
+      "type": "inc",
+      "description": "Инвест. доход",
+      "value": "5000",
+      "month": 4,
+      "year": 2021,
+      "id": 23
+    },
+    {
+      "type": "exp",
+      "description": "Покупки",
+      "value": "2000",
+      "month": 5,
+      "year": 2021,
+      "id": 24
+    },
+    {
+      "type": "inc",
+      "description": "Зарплата",
+      "value": "100000",
+      "month": 5,
+      "year": 2021,
+      "id": 25
+    },
+    {
+      "type": "inc",
+      "description": "Продажи",
+      "value": "10000",
+      "month": 5,
+      "year": 2021,
+      "id": 26
+    },
+    {
+      "type": "exp",
+      "description": "Бензин",
+      "value": "1000",
+      "month": 6,
+      "year": 2021,
+      "id": 27
+    },
+    {
+      "type": "inc",
+      "description": "Партнерка",
+      "value": "10000",
+      "month": 6,
+      "year": 2021,
+      "id": 28
+    },
+    {
+      "type": "inc",
+      "description": "Инвест. доход",
+      "value": "5000",
+      "month": 6,
+      "year": 2021,
+      "id": 29
+    },
+    {
+      "type": "exp",
+      "description": "Покупки",
+      "value": "2000",
+      "month": 7,
+      "year": 2021,
+      "id": 30
+    },
+    {
+      "type": "exp",
+      "description": "Спортзал",
+      "value": "2000",
+      "month": 7,
+      "year": 2021,
+      "id": 31
+    },
+    {
+      "type": "inc",
+      "description": "Продажи",
+      "value": "10000",
+      "month": 7,
+      "year": 2021,
+      "id": 32
+    },
+    {
+      "type": "inc",
+      "description": "Партнерка",
+      "value": "10000",
+      "month": 8,
+      "year": 2021,
+      "id": 33
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 8,
+      "year": 2021,
+      "id": 34
+    },
+    {
+      "type": "inc",
+      "description": "Зарплата",
+      "value": "100000",
+      "month": 8,
+      "year": 2021,
+      "id": 35
+    },
+    {
+      "type": "exp",
+      "description": "Коммунальные счета",
+      "value": "1000",
+      "month": 9,
+      "year": 2021,
+      "id": 36
+    },
+    {
+      "type": "inc",
+      "description": "Партнерка",
+      "value": "10000",
+      "month": 9,
+      "year": 2021,
+      "id": 37
+    },
+    {
+      "type": "inc",
+      "description": "Инвест. доход",
+      "value": "5000",
+      "month": 9,
+      "year": 2021,
+      "id": 38
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 10,
+      "year": 2021,
+      "id": 39
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 10,
+      "year": 2021,
+      "id": 40
+    },
+    {
+      "type": "exp",
+      "description": "Бензин",
+      "value": "1000",
+      "month": 10,
+      "year": 2021,
+      "id": 41
+    },
+    {
+      "type": "inc",
+      "description": "Зарплата",
+      "value": "100000",
+      "month": 11,
+      "year": 2021,
+      "id": 42
+    },
+    {
+      "type": "exp",
+      "description": "Развлечения",
+      "value": "2000",
+      "month": 11,
+      "year": 2021,
+      "id": 43
+    },
+    {
+      "type": "exp",
+      "description": "Развлечения",
+      "value": "2000",
+      "month": 11,
+      "year": 2021,
+      "id": 44
+    },
+    {
+      "type": "exp",
+      "description": "Спортзал",
+      "value": "2000",
+      "month": 0,
+      "year": 2022,
+      "id": 45
+    },
+    {
+      "type": "inc",
+      "description": "Зарплата",
+      "value": "100000",
+      "month": 0,
+      "year": 2022,
+      "id": 46
+    },
+    {
+      "type": "exp",
+      "description": "Развлечения",
+      "value": "2000",
+      "month": 0,
+      "year": 2022,
+      "id": 47
+    },
+    {
+      "type": "exp",
+      "description": "Покупки",
+      "value": "2000",
+      "month": 1,
+      "year": 2022,
+      "id": 48
+    },
+    {
+      "type": "inc",
+      "description": "Партнерка",
+      "value": "10000",
+      "month": 1,
+      "year": 2022,
+      "id": 49
+    },
+    {
+      "type": "exp",
+      "description": "Развлечения",
+      "value": "2000",
+      "month": 1,
+      "year": 2022,
+      "id": 50
+    },
+    {
+      "type": "inc",
+      "description": "Продажи",
+      "value": "10000",
+      "month": 2,
+      "year": 2022,
+      "id": 51
+    },
+    {
+      "type": "inc",
+      "description": "Продажи",
+      "value": "10000",
+      "month": 2,
+      "year": 2022,
+      "id": 52
+    },
+    {
+      "type": "inc",
+      "description": "Инвест. доход",
+      "value": "5000",
+      "month": 2,
+      "year": 2022,
+      "id": 53
+    },
+    {
+      "type": "exp",
+      "description": "Покупки",
+      "value": "2000",
+      "month": 3,
+      "year": 2022,
+      "id": 54
+    },
+    {
+      "type": "exp",
+      "description": "Покупки",
+      "value": "2000",
+      "month": 3,
+      "year": 2022,
+      "id": 55
+    },
+    {
+      "type": "inc",
+      "description": "Фриланс",
+      "value": "20000",
+      "month": 3,
+      "year": 2022,
+      "id": 56
+    },
+    {
+      "type": "exp",
+      "description": "Развлечения",
+      "value": "2000",
+      "month": 4,
+      "year": 2022,
+      "id": 57
+    },
+    {
+      "type": "exp",
+      "description": "Спортзал",
+      "value": "2000",
+      "month": 4,
+      "year": 2022,
+      "id": 58
+    },
+    {
+      "type": "exp",
+      "description": "Спортзал",
+      "value": "2000",
+      "month": 4,
+      "year": 2022,
+      "id": 59
+    },
+    {
+      "type": "exp",
+      "description": "Покупки",
+      "value": "2000",
+      "month": 5,
+      "year": 2022,
+      "id": 60
+    },
+    {
+      "type": "inc",
+      "description": "Продажи",
+      "value": "10000",
+      "month": 5,
+      "year": 2022,
+      "id": 61
+    },
+    {
+      "type": "inc",
+      "description": "Зарплата",
+      "value": "100000",
+      "month": 5,
+      "year": 2022,
+      "id": 62
+    },
+    {
+      "type": "inc",
+      "description": "Продажи",
+      "value": "10000",
+      "month": 6,
+      "year": 2022,
+      "id": 63
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 6,
+      "year": 2022,
+      "id": 64
+    },
+    {
+      "type": "inc",
+      "description": "Инвест. доход",
+      "value": "5000",
+      "month": 6,
+      "year": 2022,
+      "id": 65
+    },
+    {
+      "type": "exp",
+      "description": "Бензин",
+      "value": "1000",
+      "month": 7,
+      "year": 2022,
+      "id": 66
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 7,
+      "year": 2022,
+      "id": 67
+    },
+    {
+      "type": "inc",
+      "description": "Фриланс",
+      "value": "20000",
+      "month": 7,
+      "year": 2022,
+      "id": 68
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 8,
+      "year": 2022,
+      "id": 69
+    },
+    {
+      "type": "inc",
+      "description": "Фриланс",
+      "value": "20000",
+      "month": 8,
+      "year": 2022,
+      "id": 70
+    },
+    {
+      "type": "exp",
+      "description": "Спортзал",
+      "value": "2000",
+      "month": 8,
+      "year": 2022,
+      "id": 71
+    },
+    {
+      "type": "exp",
+      "description": "Коммунальные счета",
+      "value": "1000",
+      "month": 9,
+      "year": 2022,
+      "id": 72
+    },
+    {
+      "type": "exp",
+      "description": "Бензин",
+      "value": "1000",
+      "month": 9,
+      "year": 2022,
+      "id": 73
+    },
+    {
+      "type": "inc",
+      "description": "Фриланс",
+      "value": "20000",
+      "month": 9,
+      "year": 2022,
+      "id": 74
+    },
+    {
+      "type": "exp",
+      "description": "Бензин",
+      "value": "1000",
+      "month": 10,
+      "year": 2022,
+      "id": 75
+    },
+    {
+      "type": "exp",
+      "description": "Коммунальные счета",
+      "value": "1000",
+      "month": 10,
+      "year": 2022,
+      "id": 76
+    },
+    {
+      "type": "exp",
+      "description": "Коммунальные счета",
+      "value": "1000",
+      "month": 10,
+      "year": 2022,
+      "id": 77
+    },
+    {
+      "type": "inc",
+      "description": "Фриланс",
+      "value": "20000",
+      "month": 11,
+      "year": 2022,
+      "id": 78
+    },
+    {
+      "type": "inc",
+      "description": "Инвест. доход",
+      "value": "5000",
+      "month": 11,
+      "year": 2022,
+      "id": 79
+    },
+    {
+      "type": "inc",
+      "description": "Фриланс",
+      "value": "20000",
+      "month": 11,
+      "year": 2022,
+      "id": 80
+    },
+    {
+      "type": "exp",
+      "description": "Коммунальные счета",
+      "value": "1000",
+      "month": 0,
+      "year": 2023,
+      "id": 81
+    },
+    {
+      "type": "inc",
+      "description": "Инвест. доход",
+      "value": "5000",
+      "month": 0,
+      "year": 2023,
+      "id": 82
+    },
+    {
+      "type": "exp",
+      "description": "Покупки",
+      "value": "2000",
+      "month": 0,
+      "year": 2023,
+      "id": 83
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 1,
+      "year": 2023,
+      "id": 84
+    },
+    {
+      "type": "inc",
+      "description": "Партнерка",
+      "value": "10000",
+      "month": 1,
+      "year": 2023,
+      "id": 85
+    },
+    {
+      "type": "exp",
+      "description": "Развлечения",
+      "value": "2000",
+      "month": 1,
+      "year": 2023,
+      "id": 86
+    },
+    {
+      "type": "inc",
+      "description": "Инвест. доход",
+      "value": "5000",
+      "month": 2,
+      "year": 2023,
+      "id": 87
+    },
+    {
+      "type": "inc",
+      "description": "Продажи",
+      "value": "10000",
+      "month": 2,
+      "year": 2023,
+      "id": 88
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 2,
+      "year": 2023,
+      "id": 89
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 3,
+      "year": 2023,
+      "id": 90
+    },
+    {
+      "type": "inc",
+      "description": "Партнерка",
+      "value": "10000",
+      "month": 3,
+      "year": 2023,
+      "id": 91
+    },
+    {
+      "type": "exp",
+      "description": "Покупки",
+      "value": "2000",
+      "month": 3,
+      "year": 2023,
+      "id": 92
+    },
+    {
+      "type": "exp",
+      "description": "Спортзал",
+      "value": "2000",
+      "month": 4,
+      "year": 2023,
+      "id": 93
+    },
+    {
+      "type": "exp",
+      "description": "Покупки",
+      "value": "2000",
+      "month": 4,
+      "year": 2023,
+      "id": 94
+    },
+    {
+      "type": "inc",
+      "description": "Инвест. доход",
+      "value": "5000",
+      "month": 4,
+      "year": 2023,
+      "id": 96
+    },
+    {
+      "type": "inc",
+      "description": "Продажи",
+      "value": "10000",
+      "month": 4,
+      "year": 2023,
+      "id": 98
+    },
+    {
+      "type": "exp",
+      "description": "Развлечения",
+      "value": "2000",
+      "month": 4,
+      "year": 2023,
+      "id": 99
+    },
+    {
+      "type": "exp",
+      "description": "Рента",
+      "value": "30000",
+      "month": 4,
+      "year": 2023,
+      "id": 100
+    },
+    {
+      "type": "inc",
+      "description": "Фриланс",
+      "value": "20000",
+      "month": 4,
+      "year": 2023,
+      "id": 103
+    },
+    {
+      "type": "inc",
+      "description": "Продажи",
+      "value": "10000",
+      "month": 4,
+      "year": 2023,
+      "id": 109
+    }
+  ]
+}
